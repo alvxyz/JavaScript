@@ -7,6 +7,6 @@ while (noAngkot <= angkotBeroperasi){
     noAngkot++;
 }
 
-for (var angkotBeroperasi = 7; angkotBeroperasi <= 10; angkotBeroperasi++){
+for (var angkotBeroperasi = 7; angkotBeroperasi <= jmlAngkot; angkotBeroperasi++){
     console.log("Angkot No. " + angkotBeroperasi + " sedang tidak beroperasi.")
 }
