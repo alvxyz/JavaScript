@@ -3,7 +3,6 @@ var angkotBeroperasi = 6;
 var noAngkot = 1;
 var angkotLembur = [8];
 
-
 for (var noAngkot; noAngkot <= jmlAngkot; noAngkot++) {
     if (noAngkot <= angkotBeroperasi) {
         console.log("Angkot No. " + noAngkot + " beroperasi dengan baik.")
