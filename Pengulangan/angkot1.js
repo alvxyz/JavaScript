@@ -1,4 +1,4 @@
-var jumlahAngkot = 100;
+var jumlahAngkot = 200;
 var noAngkot = 1;
 
 while (noAngkot <= jumlahAngkot) {
